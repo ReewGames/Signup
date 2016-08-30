@@ -1,4 +1,4 @@
-# Signup
+# Reew Games
 Information about signing up for Reew Games account
 Reew Games
 
